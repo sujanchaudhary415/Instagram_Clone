@@ -30,7 +30,7 @@ const SuggestedUsers = () => {
 
 			<Box fontSize={12} color={"gray.500"} mt={5} alignSelf={"start"}>
 				© 2024 Built By{" "}
-				<Link href='https://www.youtube.com/@asaprogrammer_' target='_blank' color='blue.500' fontSize={14}>
+				<Link href='www.linkedin.com/in/sujanchaudhary' target='_blank' color='blue.500' fontSize={14}>
 					Sujan Chaudhary
 				</Link>
 			</Box>
